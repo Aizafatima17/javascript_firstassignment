@@ -1,7 +1,7 @@
 //QUES 1: Declare a variable called age & assign to it your age. Show your age in an alert box.
 //ANSWER
-//var age = "I am 15 years old";
-//alert(age);
+var age = "I am 15 years old";
+alert(age);
 
 
 //QUES 2:Declare & initialize a variable to keep track of how many times a visitor has visited a web page.

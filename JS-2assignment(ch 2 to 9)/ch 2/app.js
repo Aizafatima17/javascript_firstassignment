@@ -1,6 +1,6 @@
 // QUES 1: Declare a variable called username.
 //ANSWER:
-//var username = "Aizafatima";
+var username = "Aizafatima";
 
 
 //QUES 2: Declare a variable called myName & assign to it a string that represents your Full Name.
